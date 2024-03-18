@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Maiya-Stanley
+- 👀 I’m interested in Data Analytics - I enjoy the problem solving elements and love presenting new findings to others.
+- 🏂 I love snowboarding, running, climbing mountains and being with my dog Lily.
+- 🌱 I’m currently learning about AWS, understanding the jargon and how to adapt to it. I've also just started to use Snowflake, very early days! And I'm working on improving my stats knowledge.
+- 💞️ I’m looking to collaborate on any machine learning projects, especially any chatbots. I built one in university that used Azure APIs.  
+- 😄 Pronouns: She/Her - my name is said like 'May-ya', but prefer Mai ('May).
+- ⚡ Fun fact: I recently travelled to Japan and climbed Mount Misen on MiyaJima Island.
